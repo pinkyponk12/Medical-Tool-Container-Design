@@ -1,7 +1,7 @@
 # Medical-Tool-Container-Design
 This project involved designing a special container for a medical tool that could be securely transported and sterilized using an automated robotic system. The project consisted of two sub-teams working together: a modelling sub-team (which I was apart of) responsible for designing the container and a computing sub-team responsible for programming a robotic arm to move the container into an autoclave.
 
-#Project Objectives
+## Project Objectives
 
 The modelling sub-team was responsible for:
 - Designing a lightweight container with an easy-to-grip base
