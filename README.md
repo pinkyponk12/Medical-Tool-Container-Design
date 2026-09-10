@@ -20,6 +20,10 @@ The container had to meet several design requirements:
 
 I contributed to the early design process by brainstorming possible container designs and creating a rough sketch to communicate the initial concept.
 
+![Initial Sketch](images/Initial_Sketch.png)
+
+*Initial Sketch*
+
 ## Final Container Design
 
 The final container was designed to mirror the shape of the assigned medical tool while meeting the project requirements.
@@ -29,9 +33,33 @@ Key design features included:
 - Two side holes for securing the tool with pins
 - Ledges to help the Q-Arm grip the container
 
+![Final Container](images/Final_Container.png)
+
+*Final Container*
+
+![Top View](images/Top_View.png)
+
+*Final Container - Top View*
+
+![Front View](images/Front_View.png)
+
+*Final Container - Front View*
+
+# System Integration
+
+The container was designed to work with the Q-Arm robotic system. It needed to remain within the required footprint and provide an accessible gripping area for the robotic arm.
+
+![Assembly](images/Assembly.png)
+
+*Assembly of the Tool within the Container within the Footprint*
+
 ## Engineering Drawing
 
 I also contributed to the engineering documentation by creating the final engineering drawings, including the required dimensions and design details.
+
+![Engineering Drawing](images/Engineering_Drawing.png)
+
+*Engineering Drawing of the Final Container Design*
 
 ## My Role - Administrator
 
